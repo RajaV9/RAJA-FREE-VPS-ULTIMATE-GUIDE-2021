@@ -1,0 +1,86 @@
+RAJA’S FREE VPS ULTIMATE GUIDE 2021
+
+Hi, so this tutorial is based on services you can obtain at NO costs at all. 
+
+If you need more help then contact me 
+
+Discord - raja#1692
+Telegram - @RajaV9
+
+ Telegram Group: https://t.me/joinchat/t_GHOC9Ayz0yZGU0
+
+Discord Server: https://discord.gg/hackerman  / https://discord.gg/AnUUpvVFS9
+
+
+
+
+Free Hostings
+
+Digital Ocean - 2 Months Free Trial - $100 Credit
+Linode - 2 Months Free Trial - $100 Credit
+Vultr - 1 Month Free Trial - $50 Credit
+Cloudsigma - 7 Days Free Trial 
+Amazon Web Services - 12 Months Free Trial 
+Google Cloud - 2 Months Free Trial - $300 Credit
+Vpsserver - 7 Days Free Trial
+
+
+
+No CC Free Hostings
+
+Cloudsigma 
+Vpsserver
+
+
+
+Free Net Hostings
+
+Digital Ocean
+Linode
+Vultr
+
+
+
+Free Root Hostings
+
+Digital Ocean
+Linode 
+Google Cloud (use private methods) 
+Amazon Web Services (use private methods)
+Cloudsigma 
+
+
+
+Free Scanning Hostings
+
+Digital Ocean
+
+
+
+Notes
+
+Where it says “use private methods” , make sure you don’t use TCP and methods like that. Use methods such as OVH-SLAP etc. Otherwise it will get detected and will get you banned.
+
+
+
+Paid Net Hostings
+
+OVH Cloud
+Private Hosting EU
+Virmarch
+FranTech (BuyVM)
+
+
+
+Paid Scanning Hostings
+
+FranTech
+
+
+
+Paid Root Hostings 
+
+OVH Cloud (Must be dedicated server)
+FranTech (BuyVM)
+
+
