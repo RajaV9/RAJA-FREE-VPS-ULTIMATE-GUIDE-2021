@@ -23,6 +23,7 @@ Cloudsigma - 7 Days Free Trial
 Amazon Web Services - 12 Months Free Trial 
 Google Cloud - 2 Months Free Trial - $300 Credit
 Vpsserver - 7 Days Free Trial
+Microsoft Azure - 30 Days Free Trial - $200 Credit
 
 
 
@@ -38,6 +39,8 @@ Free Net Hostings
 Digital Ocean
 Linode
 Vultr
+Vpsserver
+Cloudsigma 
 
 
 
@@ -57,6 +60,12 @@ Digital Ocean
 
 
 
+Free API Hostings
+
+
+
+
+
 Notes
 
 Where it says “use private methods” , make sure you don’t use TCP and methods like that. Use methods such as OVH-SLAP etc. Otherwise it will get detected and will get you banned.
@@ -69,12 +78,12 @@ OVH Cloud
 Private Hosting EU
 Virmarch
 FranTech (BuyVM)
-
+100UP Hosting
 
 
 Paid Scanning Hostings
 
-FranTech
+FranTech (BuyVM)
 
 
 
@@ -82,5 +91,12 @@ Paid Root Hostings
 
 OVH Cloud (Must be dedicated server)
 FranTech (BuyVM)
+
+
+
+Paid API Hostings
+
+OVH Cloud (Must be dedicated server)
+
 
 
